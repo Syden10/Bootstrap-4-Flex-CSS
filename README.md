@@ -1,11 +1,11 @@
 # Bootstrap 4 Flex CSS
-Bootstrap v4 alpha 5 - Flex CSS & Grid only
+Bootstrap v4 alpha 5 - Flex CSS
 
-Reboot + Grid: **bootstrap-grid-reboot.css**
+**All modules:** bootstrap-flex.css
 
-Grid only: **bootstrap-grid.css**
+**Reboot + Grid:** bootstrap-grid-reboot.css
 
-All modules: **bootstrap-flex.css**
+**Grid only:** bootstrap-grid.css
 
 Minified JS CDN
 ```html
