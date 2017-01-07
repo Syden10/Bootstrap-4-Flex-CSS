@@ -1,20 +1,28 @@
 # Bootstrap 4 Flex CSS
-Bootstrap v4 alpha 5 - Flex CSS
+Bootstrap v4 alpha 6 - Flex CSS
 
-**All modules:** bootstrap-flex.css
+Bootstrap is now flexbox by default!
 
-**Reboot + Grid:** bootstrap-grid-reboot.css
+**All modules:** bootstrap.min.css
 
-**Grid only:** bootstrap-grid.css
+**Reboot only:** bootstrap-reboot.min.css
+
+**Grid only:** bootstrap-grid.min.css
 
 Minified Tether JS CDN (Needed for tooltips)
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js" integrity="sha256-/5pHDZh2fv1eZImyfiThtB5Ag4LqDjyittT7fLjdT/8=" crossorigin="anonymous"></script>
 ```
 
-Minified JS CDN
+**Minified JS** CDN
 ```html
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 ```
+**Minified CSS** All Modules CDN:
+```html
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+```
+
+[Make sure you check the latest release changes](https://blog.getbootstrap.com/2017/01/06/bootstrap-4-alpha-6/)
 
 [Boostrap Site](http://v4-alpha.getbootstrap.com)
