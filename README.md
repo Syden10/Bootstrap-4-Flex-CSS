@@ -21,6 +21,7 @@ Bootstrap v4.0 beta - Flex CSS
   </body>
 </html>
 ```
+![bootstrap stack icon](bootstrap-stack.png)
 
 [Boostrap Site](https://getbootstrap.com)
 
