@@ -1,5 +1,4 @@
-# Bootstrap 4.0 beta boilerplate
-Bootstrap v4.0 beta - Flex CSS
+# Bootstrap v4.0 beta boilerplate
 
 ```html
 <!DOCTYPE html>
