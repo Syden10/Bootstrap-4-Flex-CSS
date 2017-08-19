@@ -22,6 +22,4 @@
 ```
 ![bootstrap stack icon](bootstrap-stack.png)
 
-[Boostrap Site](https://getbootstrap.com)
-
-[Make sure you check the latest release changes](https://blog.getbootstrap.com)
+[Bootstrap Site](https://getbootstrap.com)
