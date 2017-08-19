@@ -1,7 +1,7 @@
 # Bootstrap 4.0 beta boilerplate
 Bootstrap v4.0 beta - Flex CSS
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -24,4 +24,4 @@ Bootstrap v4.0 beta - Flex CSS
 
 [Boostrap Site](https://getbootstrap.com)
 
-[Bootstrap Blog](https://blog.getbootstrap.com)
+[Make sure you check the latest release changes](https://blog.getbootstrap.com)
