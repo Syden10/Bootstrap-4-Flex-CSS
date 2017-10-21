@@ -1,4 +1,4 @@
-# Bootstrap v4.0 beta boilerplate
+# Bootstrap v4.0 beta 2 boilerplate
 
 ```html
 <!DOCTYPE html>
@@ -20,6 +20,5 @@
   </body>
 </html>
 ```
-![bootstrap stack icon](bootstrap-stack.png)
+![bootstrap stack icon](bootstrap-stack.png) [Bootstrap Site](https://getbootstrap.com)
 
-[Bootstrap Site](https://getbootstrap.com)
