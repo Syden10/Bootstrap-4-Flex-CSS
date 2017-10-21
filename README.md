@@ -20,5 +20,7 @@
   </body>
 </html>
 ```
-![bootstrap stack icon](bootstrap-stack.png) [Bootstrap Site](https://getbootstrap.com)
+[Bootstrap Site](https://getbootstrap.com)
+
+![bootstrap stack icon](bootstrap-stack.png) 
 
